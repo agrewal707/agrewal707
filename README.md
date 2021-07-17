@@ -1,4 +1,11 @@
-### Hi there 👋
+### Projects
+
+* [WiFLX](https://github.com/agrewal707/wiflx) - SDR based Layer-2 PHY/MAC point-to-multipoint wireless data system
+* [YAIL](https://github.com/agrewal707/yail) - C++ library that provides publish/subscribe and remote procedure call functionality.
+* [PyOrbit](https://github.com/agrewal707/pyorbit) - Python library for managing GE MDS Orbit devices
+
+### Miscellaneous
+* [scratch](https://github.com/agrewal707/scratch) - Home of concept/test programs
 
 <!--
 **agrewal707/agrewal707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
